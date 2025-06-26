@@ -1,0 +1,11 @@
+pandas
+numpy
+python-dotenv
+gradio
+langchain
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+torch
+transformers
+tqdm
